@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **0319easy/0319easy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# ✨ hello 💫
+
+💻  쥬니어 서버 개발자입니당
+
+📖  [TIL](https://github.com/edaolnogit/til-daisy.git)  (2020.12.20 ~)
