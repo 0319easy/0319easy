@@ -15,8 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# ✨ hello 💫
+# ✨✨✨ always awake ✨✨✨
 
-💻  쥬니어 서버 개발자입니당
+[![video](https://img.youtube.com/vi/CRQCqse7Sxo/0.jpg)](https://youtu.be/CRQCqse7Sxo)  
 
+💻  쥬니어 서버 개발자입니당  
+
+🧸 spring, java, js, docker, k8s 등을 공부하고 있습니다  
+💎 minecraft, 노래 듣는 것을 좋아합니다  
+
+🌏  [blog](0319easy.github.io)  
 📖  [TIL](https://github.com/edaolnogit/til-daisy.git)  (2020.12.20 ~)
