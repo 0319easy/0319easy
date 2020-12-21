@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 🧸 spring, java, js, docker, k8s 등을 공부하고 있습니다  
 💎 minecraft, 노래 듣는 것을 좋아합니다  
 
-🌏  [blog](0319easy.github.io)  
+<!-- 🌏  [blog](https://0319easy.github.io)   -->
 📖  [TIL](https://github.com/edaolnogit/til-daisy.git)  (2020.12.20 ~)
